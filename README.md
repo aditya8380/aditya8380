@@ -7,9 +7,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/https://x.com/kumaradity38169" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/kumaradity38169" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/aditya-kumar-jha-962083261" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aditya-kumar-jha-962083261" height="30" width="40" /></a>
-<a href="[https://fb.com/https://www.facebook.com/profile.](https://www.facebook.com/people/%E0%A4%86%E0%A4%A6%E0%A4%BF%E0%A4%A4%E0%A5%8D%E0%A4%AF-%E0%A4%95%E0%A4%B6%E0%A5%8D%E0%A4%AF%E0%A4%AA/pfbid07iH2725eH34s8YLYZMkJY44ZMA26UczdyRvP8uM5Th8xiH9ffcXNF32EKAs9dCUJl/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile." height="30" width="40" /></a>
+<a href="https://x.com/KumarAdity38169" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/kumaradity38169" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aditya-kumar-jha-962083261" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aditya-kumar-jha-962083261" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100077885543583&mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile." height="30" width="40" /></a>
 <a href="https://www.instagram.com/aadity2369/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/invites" height="30" width="40" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
